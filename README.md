@@ -1,7 +1,6 @@
-# ejercicio-alumno
+# Clase del 11/04/2020
 
 ## Integrantes
 
-- integrante1 (usuario github)
-- integrante2 (usuario github)
-...
+- Leonardo Cesario (leocesario)
+- Matías Freyre (matifreyre)
